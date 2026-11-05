@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-warehouse-operations-nextjs",
+  "capabilityKey": "planned:ecommerce:warehouse-operations",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-warehouse-operations-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/warehouse-operations.md",
+  "presentationPlan": "projects/ecommerce/nextjs/warehouse-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
